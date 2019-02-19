@@ -1,0 +1,19 @@
+PicID	PicNam	PicSet	in_out	ShortDescription	similarlevel	similar_score
+1	125a.jpg	1	1	mop	4	0.2121
+2	103a.jpg	1	1	microwave	5	0.0714
+3	176a.jpg	1	2	Bus	5	0.0556
+1	179a.jpg	2	2	palm tree	3	0.3333
+2	180a.jpg	2	1	Couch	4	0.1667
+3	182a.jpg	2	1	nail polish	5	0.0938
+1	098a.jpg	3	2	Tricycle	3	0.2667
+2	083a.jpg	3	2	goggles	4	0.1591
+3	062a.jpg	3	2	pig	5	0.1379
+1	083a.jpg	4	2	green fish	4	0.2414
+2	030a.jpg	4	2	Tire	4	0.2222
+3	037a.jpg	4	1	school desk	5	0.0909
+1	017a.jpg	5	2	Pinecone	4	0.1765
+2	102a.jpg	5	1	red tea pot kettle	4	0.1724
+3	173a.jpg	5	1	hanger	5	0.1212
+1	035a.jpg	6	2	stuffed dolphin	4	0.1818
+2	048a.jpg	6	2	fox	4	0.2121
+3	079a.jpg	6	1	computer monitor	5	0.0000

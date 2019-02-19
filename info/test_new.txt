@@ -1,0 +1,253 @@
+PicID	PicNam	PicSet	old_simil_new	ShortDescription	similarlevel	similar_score
+1	070a.jpg	1	3	Balloon	4	0.1667
+2	074a.jpg	1	3	Toilet Brush	4	0.1667
+3	109a.jpg	1	3	Staircase	4	0.1667
+4	106a.jpg	1	3	fudgsicle	4	0.1600
+5	112a.jpg	1	3	belt	5	0.1563
+6	057a.jpg	1	3	folders	5	0.1515
+7	133a.jpg	1	3	frying pan	5	0.1481
+8	075a.jpg	1	3	bloody mary drink	5	0.1429
+9	058a.jpg	1	3	febreze	5	0.1429
+10	063a.jpg	1	3	asparagus	5	0.1395
+11	169a.jpg	1	3	metal stirrups	5	0.1379
+12	184a.jpg	1	3	gum drops	5	0.1379
+13	135a.jpg	1	3	Sink Plug	5	0.1333
+14	136a.jpg	1	3	Blood Pressure Cuff	5	0.1333
+15	050a.jpg	1	3	earrings	5	0.1250
+16	091a.jpg	1	3	yellow cable	5	0.1212
+17	181a.jpg	1	3	highlighter	5	0.1212
+18	086a.jpg	1	3	dishwasher	5	0.1200
+19	138a.jpg	1	3	Bungee Cord	5	0.1176
+20	172a.jpg	1	3	Ice Cream Cone	5	0.1176
+21	013a.jpg	1	3	neck pillow	5	0.1163
+22	077a.jpg	1	3	doorknob	5	0.1136
+23	037a.jpg	1	3	Electronic Soap Dispenser	5	0.1111
+24	189a.jpg	1	3	Espresso Machine	5	0.1111
+25	190a.jpg	1	3	Scissors	5	0.1111
+26	041a.jpg	1	3	cookie	5	0.1034
+27	065a.jpg	1	3	stuffed penguin	5	0.1034
+28	018a.jpg	1	3	model rocket	5	0.0930
+29	090a.jpg	1	3	soccer net	5	0.0909
+30	022a.jpg	1	3	straws	5	0.0741
+31	118a.jpg	1	3	tomato	4	0.1667
+32	147a.jpg	1	3	Screw in Hooks	5	0.0667
+33	126a.jpg	1	3	slippers	5	0.0625
+34	026a.jpg	1	3	Suitcase	5	0.0556
+35	031a.jpg	1	3	ipod shuffle	4	0.1724
+36	188a.jpg	1	3	iHome	5	0.0556
+37	179a.jpg	1	3	set picks	5	0.0400
+38	155a.jpg	1	3	kangaroo	5	0.0370
+39	167a.jpg	1	3	tupperware	5	0.0313
+40	002a.jpg	1	3	Pompom	5	0.0000
+41	080a.jpg	1	3	wood chisel	5	0.0000
+42	170a.jpg	1	3	Cheese	5	0.0000
+1	061a.jpg	2	3	Spider	4	0.1667
+2	077a.jpg	2	3	Box	4	0.1667
+3	046a.jpg	2	3	stuffed animal	4	0.1667
+4	090a.jpg	2	3	wine cork	4	0.1591
+5	006a.jpg	2	3	magazines	5	0.1563
+6	088a.jpg	2	3	cowboy hat	5	0.1515
+7	097a.jpg	2	3	mail	5	0.1481
+8	157a.jpg	2	3	hair straightener	5	0.1429
+9	158a.jpg	2	3	helicopter	5	0.1429
+10	019a.jpg	2	3	drink umbrella	5	0.1395
+11	123a.jpg	2	3	hair curlers	5	0.1379
+12	118a.jpg	2	3	weights	5	0.1364
+13	023a.jpg	2	3	Skateboard	5	0.1333
+14	131a.jpg	2	3	Tape Dispenser	5	0.1333
+15	016a.jpg	2	3	mug	5	0.1250
+16	026a.jpg	2	3	smoke detector	5	0.1212
+17	162a.jpg	2	3	parrot	5	0.1212
+18	147a.jpg	2	3	outlet strip	5	0.1200
+19	110a.jpg	2	3	Ping Pong Paddle	5	0.1176
+20	014a.jpg	2	3	parallel bars	5	0.1163
+21	170a.jpg	2	3	camera bulb	5	0.1154
+22	122a.jpg	2	3	yarn and needles	5	0.1136
+23	059a.jpg	2	3	Cup	5	0.1111
+24	080a.jpg	2	3	Headphones	5	0.1111
+25	161a.jpg	2	3	Windchime	5	0.1111
+26	102a.jpg	2	3	bike	5	0.1034
+27	173a.jpg	2	3	totem	4	0.1724
+28	189a.jpg	2	3	hot glue gun	5	0.0930
+29	044a.jpg	2	3	loofah	5	0.0769
+30	027a.jpg	2	3	cannoli	5	0.0714
+31	025a.jpg	2	3	q-tip	5	0.0714
+32	043a.jpg	2	3	Fire Extinguisher	5	0.0667
+33	001a.jpg	2	3	mosaic round	5	0.0606
+34	042a.jpg	2	3	Grapes	5	0.0556
+35	103a.jpg	2	3	Thermos	5	0.0556
+36	119a.jpg	2	3	Hot Dog	5	0.0556
+37	015a.jpg	2	3	hamper	5	0.0400
+38	150a.jpg	2	3	sugar cubes	5	0.0345
+39	191a.jpg	2	3	coffee coaster	5	0.0303
+40	032a.jpg	2	3	folders	5	0.0000
+41	101a.jpg	2	3	Heart Tin	5	0.0000
+42	106a.jpg	2	3	Bag	5	0.0000
+1	122a.jpg	3	3	Hat	4	0.1667
+2	169a.jpg	3	3	Safe	4	0.1667
+3	171a.jpg	3	3	paper crane	4	0.1628
+4	089a.jpg	3	3	duster	4	0.1667
+5	063a.jpg	3	3	pez dispenser	5	0.1538
+6	133a.jpg	3	3	brain	5	0.1515
+7	178a.jpg	3	3	dinosaur	5	0.1429
+8	010a.jpg	3	3	bat	5	0.1429
+9	154a.jpg	3	3	royal chair	5	0.1429
+10	186a.jpg	3	3	foam finger	5	0.1395
+11	055a.jpg	3	3	maracas	4	0.1724
+12	132a.jpg	3	3	casette tape	5	0.1364
+13	011a.jpg	3	3	Target	5	0.1333
+14	020a.jpg	3	3	Helmet	5	0.1333
+15	093a.jpg	3	3	glitter	5	0.1250
+16	038a.jpg	3	3	elephant	5	0.1212
+17	091a.jpg	3	3	sand paper	5	0.1200
+18	177a.jpg	3	3	wii controller	5	0.1200
+19	029a.jpg	3	3	Life Preserver	5	0.1176
+20	140a.jpg	3	3	stoplight	5	0.1163
+21	139a.jpg	3	3	stack coffee cups	5	0.1154
+22	104a.jpg	3	3	Wheel	5	0.1111
+23	142a.jpg	3	3	Vase	5	0.1111
+24	172a.jpg	3	3	Leaf	5	0.1111
+25	174a.jpg	3	3	fur hat	5	0.1111
+26	107a.jpg	3	3	briefcase	5	0.1034
+27	110a.jpg	3	3	sweater	5	0.0938
+28	035a.jpg	3	3	horse statue	5	0.0930
+29	016a.jpg	3	3	petri dish	5	0.0769
+30	001a.jpg	3	3	weekly pill box	5	0.0714
+31	157a.jpg	3	3	tandem bike	5	0.0698
+32	124a.jpg	3	3	AED machine	5	0.0625
+33	100a.jpg	3	3	directors cut	5	0.0606
+34	052a.jpg	3	3	Car Toy	5	0.0556
+35	158a.jpg	3	3	Woven Basket	5	0.0556
+36	123a.jpg	3	3	contacts case	5	0.0476
+37	034a.jpg	3	3	bowl fruit	5	0.0400
+38	149a.jpg	3	3	wrapping paper	5	0.0345
+39	130a.jpg	3	3	peacock feather	5	0.0303
+40	025a.jpg	3	3	Cake	5	0.0000
+41	156a.jpg	3	3	brick	5	0.0000
+42	159a.jpg	3	3	Harmonica	5	0.0000
+1	042a.jpg	4	3	Flip Flop	4	0.1667
+2	065a.jpg	4	3	Candelabra	4	0.1667
+3	027a.jpg	4	3	nail clipper	4	0.1628
+4	032a.jpg	4	3	bowl	4	0.1591
+5	114a.jpg	4	3	snowshoe	5	0.1538
+6	092a.jpg	4	3	trumpet	5	0.1515
+7	177a.jpg	4	3	flask	5	0.1429
+8	041a.jpg	4	3	pool stick	5	0.1429
+9	110a.jpg	4	3	batman symbol	5	0.1429
+10	095a.jpg	4	3	silver shoe horn	5	0.1395
+11	053a.jpg	4	3	bananas	5	0.1379
+12	056a.jpg	4	3	swing	5	0.1364
+13	182a.jpg	4	3	Flippers	5	0.1333
+14	174a.jpg	4	3	Shoe	5	0.1333
+15	057a.jpg	4	3	boxes	5	0.1250
+16	018a.jpg	4	3	shield	5	0.1212
+17	117a.jpg	4	3	black jewelry bag	5	0.1200
+18	121a.jpg	4	3	santa hat	5	0.1190
+19	166a.jpg	4	3	Trowel	5	0.1176
+20	136a.jpg	4	3	toy lighthouse	5	0.1163
+21	171a.jpg	4	3	pizza	5	0.1136
+22	075a.jpg	4	3	Hot Tub	5	0.1111
+23	091a.jpg	4	3	Cookie	5	0.1111
+24	113a.jpg	4	3	Wine Rack	5	0.1111
+25	035a.jpg	4	3	bird cage	5	0.1071
+26	005a.jpg	4	3	cash register	5	0.1034
+27	033a.jpg	4	3	monitor	5	0.0938
+28	009a.jpg	4	3	Fruit Cake	4	0.1667
+29	099a.jpg	4	3	headphones	5	0.0769
+30	014a.jpg	4	3	puppy	5	0.0714
+31	067a.jpg	4	3	water bottle	5	0.0690
+32	119a.jpg	4	3	earrings	5	0.0625
+33	158a.jpg	4	3	Chair	5	0.0588
+34	055a.jpg	4	3	Goggles	5	0.0556
+35	131a.jpg	4	3	Cactus	5	0.0556
+36	175a.jpg	4	3	necklace	5	0.0455
+37	017a.jpg	4	3	toy bridge	5	0.0400
+38	043a.jpg	4	3	chocolate bunny	5	0.0345
+39	047a.jpg	4	3	burrito	5	0.0303
+40	031a.jpg	4	3	Nest	5	0.0000
+41	040a.jpg	4	3	Brush	5	0.0000
+42	073a.jpg	4	3	padlock	5	0.0000
+1	137a.jpg	5	3	Shredder	4	0.1667
+2	185a.jpg	5	3	Chocolates	4	0.1667
+3	038a.jpg	5	3	dust pan	4	0.1628
+4	045a.jpg	5	3	metronome	4	0.1563
+5	060a.jpg	5	3	coat rack	5	0.1515
+6	187a.jpg	5	3	fan	5	0.1515
+7	056a.jpg	5	3	bows	5	0.1429
+8	108a.jpg	5	3	carriage	5	0.1429
+9	180a.jpg	5	3	furniture dolly	5	0.1429
+10	022a.jpg	5	3	hot tub	5	0.1395
+11	031a.jpg	5	3	cup and ball toy	5	0.1379
+12	138a.jpg	5	3	pepper	5	0.1364
+13	098a.jpg	5	3	Pizza	5	0.1333
+14	054a.jpg	5	3	lunch	5	0.1250
+15	088a.jpg	5	3	ice pick	5	0.1250
+16	040a.jpg	5	3	Lantern	4	0.1667
+17	116a.jpg	5	3	handles	5	0.1200
+18	183a.jpg	5	3	sailboat toy	5	0.1190
+19	084a.jpg	5	3	Abacus	5	0.1176
+20	176a.jpg	5	3	spotlight	5	0.1163
+21	101a.jpg	5	3	bonsai tree	5	0.1136
+22	008a.jpg	5	3	Fern	5	0.1111
+23	090a.jpg	5	3	Wreath	5	0.1111
+24	165a.jpg	5	3	Towels	5	0.1111
+25	103a.jpg	5	3	owl statue	5	0.1034
+26	107a.jpg	5	3	rabbit's foot keychain	5	0.1034
+27	099a.jpg	5	3	muffin	5	0.0938
+28	041a.jpg	5	3	blue shirt	5	0.0909
+29	039a.jpg	5	3	graham crackers	5	0.0769
+30	184a.jpg	5	3	octopus	5	0.0714
+31	034a.jpg	5	3	cupcake	5	0.0690
+32	110a.jpg	5	3	sandwich	5	0.0625
+33	065a.jpg	5	3	Juicer	5	0.0556
+34	112a.jpg	5	3	Coconut	5	0.0556
+35	125a.jpg	5	3	Stationary Bike	5	0.0556
+36	021a.jpg	5	3	chicken	5	0.0455
+37	158a.jpg	5	3	berries	5	0.0400
+38	191a.jpg	5	3	ribbon	5	0.0313
+39	156a.jpg	5	3	crowbar	5	0.0303
+40	044a.jpg	5	3	pager	5	0.0000
+41	061a.jpg	5	3	Hat	5	0.0000
+42	086a.jpg	5	3	Wheel	5	0.0000
+1	158a.jpg	6	3	Bagel	4	0.1667
+2	176a.jpg	6	3	Shopping Cart	4	0.1667
+3	033a.jpg	6	3	yogurt parfait	4	0.1600
+4	135a.jpg	6	3	bowtie	4	0.1563
+5	105a.jpg	6	3	newspapers	5	0.1515
+6	149a.jpg	6	3	fridge	5	0.1515
+7	004a.jpg	6	3	fireplace bellow	5	0.1429
+8	090a.jpg	6	3	log	5	0.1429
+9	118a.jpg	6	3	plaid scarf	5	0.1429
+10	014a.jpg	6	3	peppermints	5	0.1379
+11	127a.jpg	6	3	cocktail drink	5	0.1379
+12	095a.jpg	6	3	rubik's cube	5	0.1364
+13	110a.jpg	6	3	Paint	5	0.1333
+14	177a.jpg	6	3	bow and arrow	5	0.1250
+15	122a.jpg	6	3	peeler	5	0.1212
+16	132a.jpg	6	3	sunscreen	5	0.1212
+17	097a.jpg	6	3	black birds	5	0.1200
+18	109a.jpg	6	3	stack of chairs	5	0.1190
+19	112a.jpg	6	3	Teddy Bear	5	0.1176
+20	061a.jpg	6	3	hurdle	5	0.1163
+21	156a.jpg	6	3	white purse	5	0.1136
+22	010a.jpg	6	3	Piggy Bank	5	0.1111
+23	084a.jpg	6	3	Organizer	5	0.1111
+24	108a.jpg	6	3	Hand Truck	5	0.1111
+25	024a.jpg	6	3	queen cards	5	0.1034
+26	114a.jpg	6	3	belt	5	0.1034
+27	131a.jpg	6	3	gift bag	5	0.0938
+28	104a.jpg	6	3	brass key	5	0.0909
+29	143a.jpg	6	3	velcro boot	5	0.0769
+30	184a.jpg	6	3	prosthetic feet	5	0.0714
+31	186a.jpg	6	3	slippers	5	0.0682
+32	029a.jpg	6	3	chopsticks	5	0.0625
+33	025a.jpg	6	3	Tennis Racquet	5	0.0556
+34	106a.jpg	6	3	Tissues	5	0.0556
+35	160a.jpg	6	3	Fish Hook	5	0.0556
+36	005a.jpg	6	3	strawberry smoothie	5	0.0400
+37	189a.jpg	6	3	air conditioning unit	5	0.0400
+38	117a.jpg	6	3	vote sticker	5	0.0313
+39	067a.jpg	6	3	litter box	5	0.0233
+40	066a.jpg	6	3	salami	5	0.0000
+41	071a.jpg	6	3	Picnic Basket	4	0.1667
+42	183a.jpg	6	3	Couch	5	0.0000

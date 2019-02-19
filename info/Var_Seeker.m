@@ -1,0 +1,3 @@
+order lag PicID PicNam Picset ShortDescription similarlevel similar_score condition block in_out LadderOrder SSD onsettime jitter resp RT absolutetime trialtime correctness inhibit_effect
+                   
+'order','PicID','PicNam','Picset','ShortDescription','similarlevel','similar_score','block','condition','lag','in_out','resp','correctness','RT','LadderOrder','SSD','inhibit_effect','jitter','trialtime','absolutetime','onsettime'

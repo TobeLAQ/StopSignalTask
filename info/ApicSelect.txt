@@ -1,0 +1,253 @@
+PicID	PicNam	PicSet	in_out	ShortDescription	similarlevel	similar_score
+1.0000	008a.jpg	1	1	Laptop	2	0.4444
+2.0000	012a.jpg	1	1	Staple Remover	1	0.8333
+3.0000	014a.jpg	1	2	Wheelchair	1	0.7222
+4.0000	016a.jpg	1	1	cream pie	2	0.4615
+5.0000	025a.jpg	1	2	pumpkin	2	0.3750
+6.0000	030a.jpg	1	2	exercise ropes	1	0.6667
+7.0000	032a.jpg	1	1	cake	2	0.4048
+8.0000	034a.jpg	1	1	thermostat	2	0.4545
+9.0000	038a.jpg	1	1	cinnamon roll	1	0.5185
+10.0000	040a.jpg	1	2	feather	2	0.3864
+11.0000	048a.jpg	1	1	spork	1	0.5600
+12.0000	051a.jpg	1	1	Magnifying Glass	2	0.4706
+13.0000	053a.jpg	1	2	Stroller	1	0.5333
+14.0000	054a.jpg	1	1	Strawberry	1	0.7778
+15.0000	062a.jpg	1	1	paperclip	2	0.4545
+16.0000	068a.jpg	1	2	Toolbox	2	0.5000
+17.0000	076a.jpg	1	2	Baseball	1	0.6667
+18.0000	079a.jpg	1	1	3d glasses	1	0.5385
+19.0000	081a.jpg	1	2	jack in a box	2	0.4444
+20.0000	085a.jpg	1	1	Keyboard	1	0.5882
+21.0000	100a.jpg	1	1	spray bottle	1	0.5758
+22.0000	104a.jpg	1	2	Tractor	1	0.6471
+23.0000	107a.jpg	1	2	paintbrush	2	0.4242
+24.0000	108a.jpg	1	2	Soccer Ball	2	0.5000
+25.0000	119a.jpg	1	1	chalk	1	0.7500
+26.0000	122a.jpg	1	2	Purse	2	0.5000
+27.0000	124a.jpg	1	1	Projector	2	0.4444
+28.0000	127a.jpg	1	1	spatula	2	0.4773
+29.0000	128a.jpg	1	1	Water Gallon	2	0.4444
+30.0000	134a.jpg	1	1	Microphone	2	0.5000
+31.0000	137a.jpg	1	2	megaphone	2	0.5152
+32.0000	140a.jpg	1	1	Sewing Machine	1	0.6111
+33.0000	148a.jpg	1	2	rose	2	0.3939
+34.0000	149a.jpg	1	2	Wheelbarrow	1	0.7647
+35.0000	164a.jpg	1	1	Egg Carton	1	0.5294
+36.0000	165a.jpg	1	2	knit hat	1	0.6061
+37.0000	168a.jpg	1	2	Map	1	0.6667
+38.0000	173a.jpg	1	1	oreos	1	0.8182
+39.0000	177a.jpg	1	2	arrows	2	0.4848
+40.0000	182a.jpg	1	2	Peas	1	0.5556
+41.0000	186a.jpg	1	1	light stand	2	0.4286
+42.0000	132a.jpg	1	1	triangle	2	0.3939
+1.0000	013a.jpg	2	2	Lawnmower	1	0.5556
+2.0000	022a.jpg	2	2	Saw	2	0.5000
+3.0000	028a.jpg	2	1	Basket	2	0.5000
+4.0000	030a.jpg	2	1	guitar case	2	0.4848
+5.0000	033a.jpg	2	1	Saxophone	1	0.7222
+6.0000	035a.jpg	2	2	microphone	2	0.4444
+7.0000	036a.jpg	2	1	gummy worms	1	0.7241
+8.0000	041a.jpg	2	2	Gears	2	0.5000
+9.0000	047a.jpg	2	1	red apron	2	0.5000
+10.0000	048a.jpg	2	1	tweezers	2	0.4773
+11.0000	049a.jpg	2	2	Gazebo	2	0.4444
+12.0000	051a.jpg	2	2	Cat	2	0.4444
+13.0000	064a.jpg	2	1	dry erase markers	1	0.5714
+14.0000	066a.jpg	2	2	apple	1	0.6667
+15.0000	069a.jpg	2	1	Waffle Maker	1	0.6667
+16.0000	070a.jpg	2	1	chocolate bar	2	0.5152
+17.0000	071a.jpg	2	1	wallet	1	0.5758
+18.0000	081a.jpg	2	1	Clothespin	1	0.6111
+19.0000	085a.jpg	2	1	hair gel	1	0.6000
+20.0000	093a.jpg	2	1	robe	1	0.6364
+21.0000	096a.jpg	2	1	robot clock	2	0.4615
+22.0000	099a.jpg	2	2	forklift	1	0.6296
+23.0000	107a.jpg	2	2	tent	1	0.6591
+24.0000	108a.jpg	2	2	Walkie Talkies	2	0.4444
+25.0000	113a.jpg	2	2	red bus	1	0.5455
+26.0000	115a.jpg	2	2	film canister camera	2	0.5000
+27.0000	120a.jpg	2	1	panel screen	1	0.7407
+28.0000	125a.jpg	2	2	Pomegranate	1	0.5333
+29.0000	126a.jpg	2	1	outlet adaptor	2	0.4400
+30.0000	128a.jpg	2	2	crown	2	0.4138
+31.0000	130a.jpg	2	1	highchair	2	0.4545
+32.0000	135a.jpg	2	1	Iron	2	0.4000
+33.0000	139a.jpg	2	2	Fireman Helmet	1	0.6667
+34.0000	143a.jpg	2	1	Stethoscope	1	0.6471
+35.0000	148a.jpg	2	1	gloves	2	0.4828
+36.0000	154a.jpg	2	2	Circular Saw Blade	1	0.8333
+37.0000	164a.jpg	2	1	Plunger	1	0.7778
+38.0000	166a.jpg	2	1	Present	2	0.5000
+39.0000	171a.jpg	2	1	barstool	1	0.8182
+40.0000	172a.jpg	2	2	crane	2	0.4000
+41.0000	181a.jpg	2	2	ice cream bar	1	0.6923
+42.0000	192a.jpg	2	1	Chess Set	2	0.4444
+1.0000	006a.jpg	3	2	Paper Airplane	2	0.4444
+2.0000	008a.jpg	3	1	Lamp	2	0.4444
+3.0000	009a.jpg	3	1	Safety Pin	2	0.5000
+4.0000	012a.jpg	3	2	Cowboy Boots	2	0.5000
+5.0000	013a.jpg	3	1	pan	2	0.3810
+6.0000	017a.jpg	3	1	flash drive	2	0.4138
+7.0000	018a.jpg	3	2	mushrooms	2	0.5152
+8.0000	026a.jpg	3	2	trampoline	1	0.7381
+9.0000	031a.jpg	3	1	Telescope	1	0.5556
+10.0000	032a.jpg	3	2	Pineapple	1	0.8824
+11.0000	033a.jpg	3	2	Wrench	1	0.6471
+12.0000	049a.jpg	3	1	cow	1	0.5862
+13.0000	058a.jpg	3	2	Flashlight	1	0.5556
+14.0000	059a.jpg	3	1	thermometer pen	1	0.6429
+15.0000	061a.jpg	3	1	lipstick	1	0.8276
+16.0000	065a.jpg	3	1	Mortar and Pestle	2	0.4000
+17.0000	066a.jpg	3	1	Wardrobe	2	0.3889
+18.0000	069a.jpg	3	1	binder clip	2	0.4848
+19.0000	070a.jpg	3	1	lab coat	2	0.5000
+20.0000	071a.jpg	3	2	eagle	1	0.6667
+21.0000	072a.jpg	3	2	Butterfly	1	0.7222
+22.0000	082a.jpg	3	2	eiffel tower	1	0.6364
+23.0000	086a.jpg	3	1	mixer	2	0.3636
+24.0000	088a.jpg	3	1	clipboard	1	0.5455
+25.0000	094a.jpg	3	2	Flamingo	1	0.6667
+26.0000	097a.jpg	3	1	Jacket	1	0.8889
+27.0000	099a.jpg	3	1	ham	2	0.5000
+28.0000	106a.jpg	3	2	security camera	2	0.3721
+29.0000	108a.jpg	3	1	granola bar	1	0.5714
+30.0000	115a.jpg	3	1	banjo	2	0.4286
+31.0000	118a.jpg	3	1	trenchcoat	1	0.7576
+32.0000	126b.jpg	3	1	bow	1	0.5455
+33.0000	136a.jpg	3	2	Camcorder	1	0.7778
+34.0000	144a.jpg	3	1	bobby pins	2	0.3864
+35.0000	146a.jpg	3	1	Teapot	1	0.6111
+36.0000	161a.jpg	3	1	game pad	2	0.4242
+37.0000	163a.jpg	3	2	Baseball Glove	2	0.5000
+38.0000	168a.jpg	3	1	Mouse	2	0.4118
+39.0000	182a.jpg	3	1	microphone	1	0.5862
+40.0000	185a.jpg	3	2	unicycle	1	0.6667
+41.0000	187a.jpg	3	1	fan	2	0.4773
+42.0000	192a.jpg	3	1	Razor	1	0.7222
+1.0000	002a.jpg	4	1	copper wire	2	0.5000
+2.0000	007a.jpg	4	2	Wagon	1	0.8235
+3.0000	013a.jpg	4	1	treadmill	1	0.5952
+4.0000	019a.jpg	4	2	Gas Pump	2	0.4444
+5.0000	028a.jpg	4	1	piccalo	2	0.4545
+6.0000	029a.jpg	4	1	clock	2	0.4242
+7.0000	038a.jpg	4	2	Hammer	1	0.6667
+8.0000	044a.jpg	4	1	telephone	1	0.5455
+9.0000	045a.jpg	4	2	Fire Hydrant	1	0.5556
+10.0000	051a.jpg	4	1	dvd stack	1	0.5769
+11.0000	064a.jpg	4	2	Clapperboard	2	0.4667
+12.0000	077a.jpg	4	1	Gloves	2	0.3889
+13.0000	079a.jpg	4	2	flag	1	0.6923
+14.0000	082a.jpg	4	2	Saddle	2	0.5000
+15.0000	084a.jpg	4	1	Thumbtack	1	0.7333
+16.0000	086a.jpg	4	2	carrots	2	0.4242
+17.0000	087a.jpg	4	2	Footprints	1	0.6667
+18.0000	089a.jpg	4	2	grapefruit	2	0.3939
+19.0000	097a.jpg	4	1	Toilet	2	0.4444
+20.0000	106a.jpg	4	1	orange safety jacket	2	0.4444
+21.0000	115a.jpg	4	1	Watch	1	0.6000
+22.0000	116a.jpg	4	2	Compass	2	0.5000
+23.0000	118a.jpg	4	1	Comb	1	0.6667
+24.0000	126a.jpg	4	2	kayak	2	0.3939
+25.0000	129a.jpg	4	2	boot	2	0.4762
+26.0000	148a.jpg	4	1	Showerhead	2	0.4444
+27.0000	149a.jpg	4	1	bed	1	0.7955
+28.0000	046b.jpg	4	2	Clothesline	2	0.4615
+29.0000	157a.jpg	4	1	glue	1	0.6538
+30.0000	163a.jpg	4	1	Lighter	1	0.7222
+31.0000	164a.jpg	4	2	Piano	1	0.5556
+32.0000	172a.jpg	4	1	soap	1	0.6429
+33.0000	173a.jpg	4	1	locker	1	0.5758
+34.0000	176a.jpg	4	1	post-it note	2	0.4138
+35.0000	178a.jpg	4	1	hair clips	1	0.5238
+36.0000	183a.jpg	4	1	hedge shears	1	0.5172
+37.0000	186a.jpg	4	1	carpet	1	0.6250
+38.0000	188a.jpg	4	2	Coffee Beans	1	0.8667
+39.0000	189a.jpg	4	2	bag	2	0.4815
+40.0000	190a.jpg	4	1	potato chips	2	0.5000
+41.0000	191a.jpg	4	1	Guitar	2	0.4444
+42.0000	192a.jpg	4	1	air hockey table	2	0.4524
+1.0000	003a.jpg	5	1	Microscope	1	0.6111
+2.0000	009a.jpg	5	1	clip	2	0.4063
+3.0000	013a.jpg	5	2	heels	2	0.4286
+4.0000	019a.jpg	5	1	Rubber Duck	1	0.6667
+5.0000	023a.jpg	5	1	mittens	2	0.3939
+6.0000	026a.jpg	5	2	Umbrella	1	0.8889
+7.0000	030a.jpg	5	1	vacuum cleaner	2	0.4848
+8.0000	037a.jpg	5	2	papaya	1	0.5455
+9.0000	043a.jpg	5	2	sunflower	1	0.6061
+10.0000	046a.jpg	5	1	Swiss Army Knife	2	0.3889
+11.0000	062a.jpg	5	1	Coffee	1	0.7333
+12.0000	068a.jpg	5	1	iron board	1	0.6154
+13.0000	069a.jpg	5	1	Gravy Boat	1	0.7222
+14.0000	070a.jpg	5	1	3 drawers	2	0.3939
+15.0000	078a.jpg	5	2	tennis ball	1	0.7500
+16.0000	079a.jpg	5	1	Harp	1	0.7647
+17.0000	087a.jpg	5	1	dog toy ball	2	0.4815
+18.0000	089a.jpg	5	1	Pretzel	1	0.6667
+19.0000	093a.jpg	5	1	pencil	1	0.6364
+20.0000	097a.jpg	5	2	Go Kart	2	0.4444
+21.0000	115a.jpg	5	2	Basketball	2	0.4706
+22.0000	120a.jpg	5	1	podium	1	0.6923
+23.0000	121a.jpg	5	1	food processor	2	0.3793
+24.0000	124a.jpg	5	1	Shopping Cart	2	0.3889
+25.0000	127a.jpg	5	1	Refrigerator	1	0.7778
+26.0000	129a.jpg	5	2	Handbell	1	0.8333
+27.0000	130a.jpg	5	1	Faucet	1	0.6667
+28.0000	131a.jpg	5	2	walnut	1	0.6429
+29.0000	133a.jpg	5	1	Spice Rack	2	0.5000
+30.0000	136a.jpg	5	1	Gnome	2	0.5000
+31.0000	142a.jpg	5	1	rocking chair	2	0.4884
+32.0000	146a.jpg	5	2	sapphire	2	0.4000
+33.0000	150a.jpg	5	2	black sticks	1	0.7037
+34.0000	151a.jpg	5	1	whisk	2	0.5000
+35.0000	153a.jpg	5	1	red blanket	2	0.4286
+36.0000	157a.jpg	5	2	Lobster	1	0.5294
+37.0000	163a.jpg	5	1	ladle	2	0.4545
+38.0000	167a.jpg	5	2	basketball hoop	2	0.4545
+39.0000	177a.jpg	5	2	Swirl Shell	2	0.3889
+40.0000	177a.jpg	5	2	Swirl Shell	2	0.3889
+41.0000	178a.jpg	5	2	rake	1	0.5172
+42.0000	188a.jpg	5	2	football	1	0.6061
+1.0000	002a.jpg	6	1	shoelaces	1	0.5714
+2.0000	003a.jpg	6	2	trash bag	1	0.6364
+3.0000	016a.jpg	6	1	pills	1	0.5172
+4.0000	021a.jpg	6	1	oil vinegar bottles	2	0.5152
+5.0000	027a.jpg	6	2	cantaloupe	2	0.4444
+6.0000	028a.jpg	6	1	TV	1	0.6111
+7.0000	038a.jpg	6	1	Compass	1	0.6471
+8.0000	039a.jpg	6	2	snowboard	2	0.3939
+9.0000	042a.jpg	6	1	exercise mat	2	0.4286
+10.0000	045a.jpg	6	1	Drum Set	2	0.4444
+11.0000	052a.jpg	6	1	leash	1	0.6818
+12.0000	054a.jpg	6	1	sewing machine	1	0.5385
+13.0000	057a.jpg	6	1	Light Switch	1	0.7778
+14.0000	063a.jpg	6	1	sushi	2	0.5000
+15.0000	064a.jpg	6	2	sunglasses	1	0.6970
+16.0000	070a.jpg	6	1	plate	2	0.3846
+17.0000	078a.jpg	6	2	hard hat	1	0.5600
+18.0000	081a.jpg	6	2	velociraptor	2	0.5000
+19.0000	093a.jpg	6	2	chicken	1	0.6364
+20.0000	094a.jpg	6	1	ink and quill	1	0.5926
+21.0000	100a.jpg	6	1	Medal	2	0.4706
+22.0000	101a.jpg	6	1	exit sign	1	0.5238
+23.0000	102a.jpg	6	1	Doll	2	0.5000
+24.0000	116a.jpg	6	2	goldfish	2	0.4545
+25.0000	120a.jpg	6	1	Lightbulb	2	0.5000
+26.0000	123a.jpg	6	2	hatchet	2	0.4545
+27.0000	124a.jpg	6	1	Balance	1	0.5556
+28.0000	125a.jpg	6	1	walk thru metal detector	1	0.6429
+29.0000	130a.jpg	6	1	Microscope	1	0.8235
+30.0000	141a.jpg	6	2	outdoor lamp	2	0.4419
+31.0000	146a.jpg	6	2	whale	1	0.7500
+32.0000	147a.jpg	6	1	Dinnerware	1	0.6667
+33.0000	148a.jpg	6	1	ashtray	2	0.3846
+34.0000	152a.jpg	6	2	celery	2	0.4848
+35.0000	157a.jpg	6	1	whisk	2	0.3939
+36.0000	159a.jpg	6	1	hairbrush	2	0.3864
+37.0000	166a.jpg	6	2	onion	1	0.5455
+38.0000	171a.jpg	6	1	electric guitar	1	0.5556
+39.0000	179a.jpg	6	1	tongs	2	0.4242
+40.0000	180a.jpg	6	1	Bunny	2	0.5000
+41.0000	181a.jpg	6	2	tiger	1	0.6154
+42.0000	182a.jpg	6	2	popcorn box	2	0.4286
