@@ -1,0 +1,9 @@
+subinform = table();
+subinform.nam = nam;
+subinform.age = age;
+subinform.gender = gender;
+subinform.major = major;
+subinform.grade = grade;
+subinform.hand = hand;
+subinform.group = group;
+subinform.number = number;
